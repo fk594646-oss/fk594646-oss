@@ -128,6 +128,8 @@ Clean, fast websites and web apps built to look professional and handle real tra
 
 A travel planning platform where users describe their trip and an AI agent builds the full itinerary, with weather forecasts, hotels and transport options in one place. Built as a React front end with a Node.js account backend and a Python trip-planning service.
 
+[**Live demo**](https://huggingface.co/spaces/muhammad-uzair02/tripify) · [Source code](https://github.com/fk594646-oss/tripify-ai-travel-planner)
+
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1630?style=flat-square&logo=python&logoColor=5b8def)
