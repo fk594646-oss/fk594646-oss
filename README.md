@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1630,1a56db&height=220&section=header&text=Muhammad%20Uzair&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=62&descSize=18&descColor=c0d4ff&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1630,1a56db&height=220&section=header&text=Muhammad%20Uzair&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer&descAlignY=62&descSize=18&descColor=c0d4ff&descAlign=50&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea043?style=for-the-badge&labelColor=0d1630&logo=circle&logoColor=2ea043)
 &nbsp;
-![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-5b8def?style=for-the-badge&labelColor=0d1630)
+![Location](https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-5b8def?style=for-the-badge&labelColor=0d1630)
 
 </div>
 
@@ -20,8 +20,8 @@
 
 ```yaml
 Name      : Muhammad Uzair
-Role      : AI Engineer and Software Developer
-Location  : Islamabad, Pakistan
+Role      : Software Engineer
+Location  : Rawalpindi, Pakistan
 Focus     : AI-powered web applications, backend APIs, data-driven tools
 Status    : Open to full-time roles
 ```
