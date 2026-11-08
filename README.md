@@ -144,7 +144,7 @@ A travel planning platform where users describe their trip and an AI agent build
 
 An IELTS practice website covering Reading, Writing, Listening and Speaking, with accounts, saved progress, streaks and rewards, band and CEFR reports, and AI-generated tasks and marking.
 
-[**Live demo**](https://muhammad-uzair02-ielts-coach.hf.space) · [Source code](https://github.com/fk594646-oss/ielts-coach)
+[**Live demo**](https://huggingface.co/spaces/muhammad-uzair02/ielts-coach) · [Source code](https://github.com/fk594646-oss/ielts-coach)
 
 <br/>
 
